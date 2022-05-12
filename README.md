@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @bratindustries
-custom electric vehicel parts and design
+I make a varity of parts for building custom electric vehicles and ev conversions
 
 #openinverter
 
-contact me via info@bratindustries.net
-www.bratindustries.net
-@bratindustries 
